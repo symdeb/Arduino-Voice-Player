@@ -17,9 +17,15 @@ will be lit so the person know when to start speaking.
 The microphones are very sensitive, just a small amount of sound will increase the value a lot
 So the micrphones must be distanced and siplated from each other to prevent sounds to influence each other.
 
+Updating MP3 files can be done using the USB connector. 
 
-There is a switch and a USB connector. when a conputer is connected to the USB port and the switch is set in "ON" position, then powr onthe Arduno, the dfplayer will act an an USB drive and files can be moved from the PC to the dfplayer. 
-This mmakes it conventient to change files and not need to take out the SD card.  After transfer, the swiych must be set ot OFF and the Arduno reset.
+1. Set the switch is set in "ON" position
+2. Connect a computer is to the DFPlayer USB connector
+3. Connect powerto the Arduino
+4. The dfplayer will act an an USB drive and files can be moved from the PC to the dfplayer. 
+5. Disconnect the usb connectors
+6. Set the switch to  "OFF"
+7. Power on the Arduino.
 
 ** Material List **
 
