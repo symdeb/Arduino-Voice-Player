@@ -15,7 +15,7 @@ There are 3 LEDS connected to the digital out pins. When recording starts the LE
 will be lit so the person know when to start speaking.
 
 The microphones are very sensitive, just a small amount of sound will increase the value a lot
-So the micrphones must be distanced and isoplated from each as much as possible to prevent sound bleed.
+So the micrphones must be distanced and isolated from each as much as possible to prevent sound bleed.
 
 Updating MP3 files can be done using the USB connector. 
 
