@@ -37,7 +37,7 @@ Updating MP3 files can be done using the USB connector.
 * Some resistors
 * [microphone] - Electret micrphpone breakout board
 
-
+Note: watch the video in Youtube
 [uno]:  https://www.arduino.cc/	
 [speaker]: https://www.amazon.com/2w-speaker/s?k=2w+speaker
 [usb]: https://www.molex.com/molex/products/datasheet.jsp?part=active/0670687041_IO_CONNECTORS.xml
