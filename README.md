@@ -1,6 +1,9 @@
 
 # VOICE
 
+
+This was a small  project for some students in Industrial Design class for Installation Art.
+
 This example uses 3 microphones each connected to one of the ADC's
 
 
