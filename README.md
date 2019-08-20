@@ -4,8 +4,8 @@
 
 This was a small  project for some students in Industrial Design class for Installation Art.
 
-This example uses 3 microphones each connected to one of the ADC's
-
+This example uses 3 off the shelf DIY microphones each connected to one of the ADC's
+Norally these micrphones only supported ON/OFF output for detecting sound but the output could be used to measure the votlage representing the intesity of the sound which can be used for trigging different responses.
 
 We read each  ADC inputs for 100 times each and accumulate a total for each channel.
 When the value it low, the sound recorded was low, and a high value indicated loud sound.
