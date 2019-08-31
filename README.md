@@ -42,10 +42,16 @@ Updating MP3 files can be done using the USB connector.
 
 Note: watch the video in VLC media player
 [uno]:  https://www.arduino.cc/	
+
 [speaker]: https://www.amazon.com/2w-speaker/s?k=2w+speaker
+
 [usb]: https://www.molex.com/molex/products/datasheet.jsp?part=active/0670687041_IO_CONNECTORS.xml
+
 [switch]: https://www.e-switch.com/product-catalog/pushbutton/product-lines/tl2230-series-pushbutton-switches
+
 [dfplayer]: https://www.dfrobot.com/product-1121.html
+
 [switch]: https://www.e-switch.com/product-catalog/pushbutton/product-lines/tl2230-series-pushbutton-switches
+
 [microphone]: https://www.aliexpress.com/item/1pcs-Wholesale-Sound-Detection-Sensor-Module-Sound-Sensor-Intelligent-Vehicle-For-Arduino/32654537130.html
 	 
